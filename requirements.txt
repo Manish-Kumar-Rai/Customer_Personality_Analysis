@@ -1,9 +1,14 @@
-pandas 
+pandas
 numpy
-seaborn 
-stats
+seaborn
 scikit-learn
-dill
-openpyxl
+matplotlib
+plotly
+kneed
+DateTime
+sqlalchemy
 streamlit
+pygwalker
+psycopg2-binary
+streamlit-aggrid
 -e .
